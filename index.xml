@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Andrei Seymour-Howell</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Andrei Seymour-Howell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 21 Jul 2024 15:39:41 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogroll</title>
-      <link>http://localhost:1313/blogroll/</link>
+      <link>https://example.org/blogroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogroll/</guid>
+      <guid>https://example.org/blogroll/</guid>
       <description>&lt;h1 id=&#34;will-add-later&#34;&gt;&lt;em&gt;Will add later&lt;/em&gt;&lt;/h1&gt;</description>
       <content:encoded><![CDATA[<h1 id="will-add-later"><em>Will add later</em></h1>
 ]]></content:encoded>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://example.org/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://example.org/research/</guid>
       <description>&lt;h1 id=&#34;what-do-i-do-now&#34;&gt;What do I do now?&lt;/h1&gt;&#xA;&lt;p&gt;The main theme of my research to date has been to compute databases of Maass forms. My current research is more centred around the derivation and uses of explicit trace formulas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-have-i-done&#34;&gt;What have I done?&lt;/h1&gt;&#xA;&lt;p&gt;During my PhD the main emphasis of my research was to compute rigorous examples of Maass cusp forms and using them to compute other objects.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="what-do-i-do-now">What do I do now?</h1>
 <p>The main theme of my research to date has been to compute databases of Maass forms. My current research is more centred around the derivation and uses of explicit trace formulas.</p>
